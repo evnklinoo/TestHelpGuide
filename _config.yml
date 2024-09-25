@@ -1,0 +1,5 @@
+title: "Your Documentation Site"
+description: "This is the official documentation for XYZ."
+baseurl: ""  # leave empty unless using a custom domain
+url: "https://yourusername.github.io"
+theme: jekyll-theme-cayman  # You can choose any Jekyll theme
